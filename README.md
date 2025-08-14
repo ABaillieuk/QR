@@ -1,1 +1,1 @@
-# QR
+(https://cdn.jsdelivr.net/gh/ABaillieuk/QR/qrcode.js)
